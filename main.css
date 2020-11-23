@@ -1,0 +1,34 @@
+body {
+  font-family: "Public Sans", sans-serif;
+}
+.bookCard {
+  border: 10px;
+  margin: 10px;
+}
+.book {
+  align-items: center;
+  background-color: #220833d5;
+  padding: 10px;
+  margin-bottom: 5px;
+  border-color: #292929;
+}
+.bboki {
+  text-align: center;
+}
+.details {
+  color: #f1f0f0;
+}
+.dd {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding-right: 15px;
+}
+.head {
+  background-color: blue;
+  align-items: center;
+  color: bisque;
+  text-align: center;
+  padding: 20px;
+  top: 0;
+}
